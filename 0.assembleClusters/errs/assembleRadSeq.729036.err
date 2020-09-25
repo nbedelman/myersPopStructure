@@ -1,0 +1,4 @@
+slurmstepd: error: _is_a_lwp: open() /proc/34696/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: 1 read() attempts on /proc/77753/status failed: No such process
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+OSError: [Errno 122] Disk quota exceeded

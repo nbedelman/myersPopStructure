@@ -1,0 +1,14 @@
+  loading Assembly: myersPopGen_100_085_02
+  from saved path: /gpfs/loomis/project/skelly/nbe4/myersPopStructure/0.assembleClusters/myersPopGen_100_085_02.json
+
+ -------------------------------------------------------------
+  ipyrad [v.0.9.58]
+  Interactive assembly and analysis of RAD-seq data
+ ------------------------------------------------------------- 
+  Parallel connection | p08r05n10.grace.hpc.yale.internal: 36 cores
+  
+  Step 3: Clustering/Mapping reads within samples
+
+  Encountered an Error.
+  Message: [Errno 39] Directory not empty: '/gpfs/loomis/project/skelly/nbe4/myersPopStructure/0.assembleClusters/myersPopGen_100_085_02-tmpalign'
+  Parallel connection closed.
