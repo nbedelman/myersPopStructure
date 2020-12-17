@@ -1,0 +1,7 @@
+/home/nbe4/project/myersPopStructure/0.assembleClusters/main_smallRamp/myersPopGen_main_091_outfiles/myersPopGen_main_091.vcf
+/home/nbe4/project/myersPopStructure/0.assembleClusters/main_smallRamp/myersPopGen_main_092_outfiles/myersPopGen_main_092.vcf
+/home/nbe4/project/myersPopStructure/0.assembleClusters/main_smallRamp/myersPopGen_main_093_outfiles/myersPopGen_main_093.vcf
+/home/nbe4/project/myersPopStructure/0.assembleClusters/main_smallRamp/myersPopGen_main_094_outfiles/myersPopGen_main_094.vcf
+/home/nbe4/project/myersPopStructure/0.assembleClusters/main_smallRamp/myersPopGen_main_095_outfiles/myersPopGen_main_095.vcf
+/home/nbe4/project/myersPopStructure/0.assembleClusters/main_smallRamp/myersPopGen_main_096_outfiles/myersPopGen_main_096.vcf
+/home/nbe4/project/myersPopStructure/0.assembleClusters/main_smallRamp/myersPopGen_main_outfiles/*.vcf
